@@ -5,7 +5,6 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './cart-page.component.html',
-  styleUrl: './cart-page.component.scss'
 })
 export class CartPageComponent {
 
